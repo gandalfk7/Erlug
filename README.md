@@ -2,7 +2,6 @@
 
 raccolta dei files che ho prodotto per Erlug
 
-![alt tag](https://github.com/gandalfk7/Erlug/blob/master/Lanciafiamme/erlug_the_flamethrower.png)
 
 ## License
 
